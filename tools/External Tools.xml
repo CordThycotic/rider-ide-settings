@@ -1,0 +1,37 @@
+<toolSet name="External Tools">
+  <tool name="Clear Shadows" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Windows\System32\cmd.exe" />
+      <option name="PARAMETERS" value="/c del %TEMP%\*.sql" />
+      <option name="WORKING_DIRECTORY" value="$SolutionDir$" />
+    </exec>
+  </tool>
+  <tool name="Clear Logs" description="Deletes all *.log files in ihawu's log folder." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Windows\System32\cmd.exe" />
+      <option name="PARAMETERS" value="/c del C:\inetpub\wwwroot\ihawu\log\*.log" />
+      <option name="WORKING_DIRECTORY" value="$SolutionDir$" />
+    </exec>
+  </tool>
+  <tool name="IIS Reset" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Windows\System32\cmd.exe" />
+      <option name="PARAMETERS" value="/c iisreset" />
+      <option name="WORKING_DIRECTORY" value="$SolutionDir$" />
+    </exec>
+  </tool>
+  <tool name="Clear Nuget Shadows" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Windows\System32\cmd.exe" />
+      <option name="PARAMETERS" value="/c clear_nuget_shadows.bat" />
+      <option name="WORKING_DIRECTORY" value="$SolutionDir$" />
+    </exec>
+  </tool>
+  <tool name="Create IIS Junctions" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Windows\System32\cmd.exe" />
+      <option name="PARAMETERS" value="/c CreateIISJunctions.bat" />
+      <option name="WORKING_DIRECTORY" value="$SolutionDir$" />
+    </exec>
+  </tool>
+</toolSet>

@@ -1,0 +1,23 @@
+<toolSet name="DotNetTools">
+  <tool name="Switch To Project" description="Using DNT, switch from using the configured package to the local CS project." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\windows\system32\cmd.exe" />
+      <option name="PARAMETERS" value="-c dnt switch-to-projects DotNetTools_Config.dnt" />
+      <option name="WORKING_DIRECTORY" value="$SolutionDir$" />
+    </exec>
+  </tool>
+  <tool name="Switch To Package" description="Using DNT, switch from using the configured local CS package to the nuget package." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\windows\system32\cmd.exe" />
+      <option name="PARAMETERS" value="-c dnt switch-to-packages DotNetTools_Config.dnt" />
+      <option name="WORKING_DIRECTORY" value="$SolutionDir$" />
+    </exec>
+  </tool>
+  <tool name="Edit DNT Config" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="notepad.exe" />
+      <option name="PARAMETERS" value="/a DotNetTools_Config.dnt" />
+      <option name="WORKING_DIRECTORY" value="$SolutionDir$" />
+    </exec>
+  </tool>
+</toolSet>

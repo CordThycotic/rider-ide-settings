@@ -1,0 +1,56 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://thycotic.visualstudio.com/DefaultCollection/Thycotic.Ihawu/_git/Thycotic.Ihawu" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://thycotic.visualstudio.com/DefaultCollection/Thycotic/_git/Thycotic.Serialization" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://thycotic.visualstudio.com/DefaultCollection/Thycotic/_git/Thycotic.Utility" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AlexSeleznyov/SplitToChunk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://thycotic.visualstudio.com/DefaultCollection/NewCo/_git/NewCo.Api" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://thycotic@dev.azure.com/thycotic/NewCo/_git/NewCo.Compression" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="C:\D" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_TAG_NAMES" value="true" />
+    <option name="LABELS_LEFT_ALIGNED" value="true" />
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+      </list>
+    </option>
+    <option name="CUSTOM_BOOLEAN_PROPERTIES">
+      <map>
+        <entry key="Change.Log.Filter.on.Branch.Selection" value="true" />
+        <entry key="Navigate.Log.To.Branch.on.Branch.Selection" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_LST_GUTTER_MARKERS" value="false" />
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+    <option name="SHOW_EDITOR_PREVIEW_ON_DOUBLE_CLICK" value="false" />
+  </component>
+</application>
