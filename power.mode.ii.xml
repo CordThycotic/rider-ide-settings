@@ -2,6 +2,7 @@
   <component name="PowerModeII">
     <option name="customBamImageFolder" value="C:\Program Files\JetBrains\JetBrains Rider 2021.3.3\jbr\bin" />
     <option name="customFlameImageFolder" value="C:\Program Files\JetBrains\JetBrains Rider 2021.3.3\jbr\bin" />
+    <option name="enabled" value="false" />
     <option name="shakeEnabled" value="true" />
     <option name="soundsFolder" value="C:\Program Files\JetBrains\JetBrains Rider 2021.3.3\jbr\bin" />
   </component>
