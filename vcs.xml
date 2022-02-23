@@ -30,6 +30,10 @@
           <option name="url" value="https://thycotic.visualstudio.com/DefaultCollection/Thycotic.ActiveDirectory/_git/Thycotic.ActiveDirectory" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://thycotic.visualstudio.com/DefaultCollection/Thycotic/_git/Thycotic.PetaPoco" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\D" />
