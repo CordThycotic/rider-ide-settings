@@ -5,11 +5,11 @@
     <option name="compactTables" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
     <option name="invertedSelectionColor" value="true" />
-    <option name="premium" value="true" />
     <option name="accentMode" value="true" />
     <option name="borderedButtons" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
+    <option name="isActiveBoldTab" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -21,6 +21,7 @@
     <option name="upperCaseButtons" value="false" />
     <option name="useMaterialFont2" value="true" />
     <option name="useMaterialWallpapers" value="true" />
+    <option name="useColoredDirectories" value="true" />
     <option name="useProjectFrame" value="true" />
     <option name="leftTreeIndent" value="0" />
     <option name="rightTreeIndent" value="2" />
@@ -28,7 +29,7 @@
     <option name="accentColor" value="87ac88" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="5465ff0a:17e90cd0d82:-8000" />
-    <option name="version" value="6.7.2" />
+    <option name="version" value="6.13.0" />
     <option name="stripedToolWindowsEnabled" value="true" />
     <option name="showWhatsNew" value="false" />
   </component>
