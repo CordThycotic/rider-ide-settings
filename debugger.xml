@@ -9,24 +9,9 @@
       <scroll-to-center>true</scroll-to-center>
     </general>
     <debuggers>
-      <debugger id="dotnet_debugger">
+      <debugger id="ObjectiveC">
         <configuration>
-          <option name="breakOnUserUnhandledExceptions" value="true" />
-          <option name="userUnhandledExceptionsIgnoreList">
-            <list>
-              <option value="System.OperationCanceledException" />
-              <option value="System.Threading.Tasks.TaskCanceledException" />
-              <option value="System.Threading.ThreadAbortException" />
-              <option value="System.ArgumentNullException" />
-              <option value="RabbitMQ.Client.Exceptions.OperationInterruptedException" />
-              <option value="System.ApplicationException" />
-            </list>
-          </option>
-        </configuration>
-      </debugger>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
+          <option name="VALUES_FILTER_ENABLED" value="false" />
         </configuration>
       </debugger>
     </debuggers>
