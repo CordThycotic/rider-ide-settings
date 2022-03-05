@@ -5,7 +5,6 @@
     <option name="compactTables" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
     <option name="invertedSelectionColor" value="true" />
-    <option name="premium" value="true" />
     <option name="accentMode" value="true" />
     <option name="borderedButtons" value="true" />
     <option name="compactDropdowns" value="true" />
@@ -28,7 +27,7 @@
     <option name="accentColor" value="87ac88" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="5465ff0a:17e90cd0d82:-8000" />
-    <option name="version" value="6.7.2" />
+    <option name="version" value="6.13.0" />
     <option name="stripedToolWindowsEnabled" value="true" />
     <option name="showWhatsNew" value="false" />
   </component>
