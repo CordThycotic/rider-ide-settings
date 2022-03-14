@@ -4,7 +4,7 @@
     <property name="created">2022-02-12T19:09:57</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-02-17T00:14:19</property>
+    <property name="modified">2022-03-14T11:46:24</property>
     <property name="originalScheme">_@user_Visual Studio 2019 Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -671,6 +671,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="4000ff" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="878787" />
       </value>
