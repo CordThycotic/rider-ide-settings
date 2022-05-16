@@ -21,10 +21,10 @@
   <component name="TodoConfiguration">
     <pattern pattern="\bNotImplementedException\b" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern icon="important" case-sensitive="true" pattern="CRTODO" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <filter name="CRTODO">
-      <pattern index="3" />
+      <pattern index="2" />
     </filter>
   </component>
 </application>
