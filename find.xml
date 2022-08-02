@@ -3,14 +3,14 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <option name="FILE_MASK" value="*Proto*.cs" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.config</mask>
     <mask>*.csproj</mask>
     <mask>*.sql</mask>
-    <mask>*.cs</mask>
     <mask>*Proto*.cs</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
