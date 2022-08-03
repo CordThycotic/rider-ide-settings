@@ -9,6 +9,9 @@
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
     <option name="REFORMAT_ON_PASTE" value="4" />
   </component>
+  <component name="CodeVisionSettings">
+    <option name="enabled" value="false" />
+  </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="4" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
@@ -18,6 +21,10 @@
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+    <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
+  </component>
+  <component name="RiderCodeLensSettings">
+    <option name="showUnavailableLenses" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\bNotImplementedException\b" />
