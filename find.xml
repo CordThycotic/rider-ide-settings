@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="Proto*" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.config</mask>
@@ -15,5 +16,6 @@
     <mask>*.cs</mask>
     <mask>*.csproj</mask>
     <mask>*.xml</mask>
+    <mask>Proto*</mask>
   </component>
 </application>
