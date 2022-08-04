@@ -3,16 +3,19 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.config</mask>
     <mask>*.sql</mask>
     <mask>*Proto*.cs</mask>
-    <mask>*.cs</mask>
     <mask>*.csproj</mask>
     <mask>*.xml</mask>
     <mask>Proto*</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
