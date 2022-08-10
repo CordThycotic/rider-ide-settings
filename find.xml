@@ -11,8 +11,8 @@
     <mask>*.csproj</mask>
     <mask>*.xml</mask>
     <mask>Proto*</mask>
-    <mask>*.sql</mask>
     <mask>*.cs</mask>
     <mask>*.config</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
