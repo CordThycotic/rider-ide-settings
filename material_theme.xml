@@ -4,10 +4,8 @@
     <option name="compactMenus" value="true" />
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
-    <option name="customTreeIndentEnabled" value="true" />
     <option name="invertedSelectionColor" value="true" />
     <option name="materialDesign" value="true" />
-    <option name="useMaterialFont" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactMenus" value="true" />
