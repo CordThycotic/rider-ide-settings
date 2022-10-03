@@ -1,22 +1,27 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="localCaseSensitive" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*Proto*.cs</mask>
     <mask>*.csproj</mask>
     <mask>*.xml</mask>
     <mask>Proto*</mask>
-    <mask>*.cs</mask>
     <mask>*.config</mask>
     <mask>*Module*</mask>
     <mask>*proto*</mask>
     <mask>*module*</mask>
     <mask>*.sql</mask>
     <mask>I*.cs</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
