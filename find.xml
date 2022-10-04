@@ -16,7 +16,7 @@
     <mask>*proto*</mask>
     <mask>*module*</mask>
     <mask>*.cs</mask>
-    <mask>*.sql</mask>
     <mask>I*.cs</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
