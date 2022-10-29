@@ -9,6 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.xaml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*Proto*.cs</mask>
@@ -23,5 +24,6 @@
     <mask>I*.cs</mask>
     <mask>*Tests.cs</mask>
     <mask>*.sql</mask>
+    <mask>*.xaml</mask>
   </component>
 </application>
