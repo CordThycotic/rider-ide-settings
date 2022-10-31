@@ -38,6 +38,10 @@
           <option name="url" value="http://thycotic.visualstudio.com" />
           <option name="userName" value="Cord.Rehn@delinea.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="SG57" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\D" />
