@@ -20,5 +20,6 @@
     <mask>*Tests.cs</mask>
     <mask>*.sql</mask>
     <mask>*.xaml</mask>
+    <mask>*disa*</mask>
   </component>
 </application>
