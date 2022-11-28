@@ -3,6 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="!*.json,!*.map" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*Proto*.cs</mask>
@@ -19,5 +20,7 @@
     <mask>*.xaml</mask>
     <mask>*disa*</mask>
     <mask>*.sql</mask>
+    <mask>!*.json</mask>
+    <mask>!*.json,!*.map</mask>
   </component>
 </application>
