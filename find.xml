@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <option name="FILE_MASK" value="!*.json,!*.map,!*.js" />
+    <option name="FILE_MASK" value="!*.json,!*.map,!*.js,!*.lock,!*.d.ts" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*Proto*.cs</mask>
@@ -29,5 +29,6 @@
     <mask>!*.json</mask>
     <mask>!*.json,!*.map</mask>
     <mask>!*.json,!*.map,!*.js</mask>
+    <mask>!*.json,!*.map,!*.js,!*.lock,!*.d.ts</mask>
   </component>
 </application>
