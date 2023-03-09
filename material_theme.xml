@@ -21,7 +21,7 @@
     <option name="useMaterialFont2" value="true" />
     <option name="useMaterialWallpapers" value="true" />
     <option name="useProjectFrame" value="true" />
-    <option name="leftTreeIndent" value="0" />
+    <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="2" />
     <option name="settingsSelectedTab" value="6" />
     <option name="accentColor" value="87ac88" />
