@@ -30,4 +30,11 @@
       </map>
     </option>
   </component>
+  <component name="codewhispererStates">
+    <option name="value">
+      <map>
+        <entry key="ConnectionExpiredDoNotShowAgain" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
